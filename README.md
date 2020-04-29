@@ -1,10 +1,4 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/itscodenation/jeopardy) 
-
 # Jeopardy
-
-### Gitpod Preview in Browser:
-- npm install
-- npm start
 
 ## Project Description
 In this unit, coders will create a jeopardy game using react. To create this project, coders will use react to take render content, and react to user clicks.
